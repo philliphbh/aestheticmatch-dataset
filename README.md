@@ -62,12 +62,23 @@ Primary sources include aggregated data from RealSelf and other reputable online
 
 ## API Reference
 
-Access the data programmatically through our API endpoints:
+You can access the latest JSON programmatically:
 
-Get all data: /api/procedures
-Filter by city: /api/procedures?city=dallas
-Filter by procedure: /api/procedures?procedure=facelift
-Combined filters: /api/procedures?city=dallas&procedure=facelift
+- **All data**:  
+  [`https://aestheticmatch.com/api/facts`](https://aestheticmatch.com/api/facts)
+
+- **Filter by city** (e.g., Atlanta):  
+  [`https://aestheticmatch.com/api/facts?city=atlanta`](https://aestheticmatch.com/api/facts?city=atlanta)
+
+- **Filter by procedure** (e.g., Rhinoplasty):  
+[`https://aestheticmatch.com/api/facts?proc=rhinoplasty`](https://aestheticmatch.com/api/facts?proc=rhinoplasty)
+
+- **Combined filters** (e.g., Atlanta + Rhinoplasty):  
+  [`https://aestheticmatch.com/api/facts?city=atlanta&proc=rhinoplasty`](https://aestheticmatch.com/api/facts?city=atlanta&proc=rhinoplasty)
+
+
+
+
 
 ## Usage
 
@@ -75,7 +86,7 @@ Combined filters: /api/procedures?city=dallas&procedure=facelift
 - **Machine Learning:** Use as a training dataset for price prediction, healthcare accessibility, or market analysis models
 - **Consumer Information:** Help patients understand typical price ranges for cosmetic procedures in their city
 
-LLM crawlers: see /well-known/llm.txt for canonical endpoints.
+LLM crawlers: See [https://aestheticmatch.com/.well-known/llm.txt](https://aestheticmatch.com/.well-known/llm.txt) for canonical metadata and API endpoints.
 
 ## License & Attribution
 
@@ -91,19 +102,32 @@ This dataset is licensed under the [Creative Commons Attribution 4.0 Internation
 Copyright (C) 2025 AestheticMatch.  
 All rights reserved except as permitted under the CC-BY 4.0 license.
 
+
 ## Citation (with DOI)
 
-```
-@dataset{cost-of-cosmetic-procedures_2025,
-  title        = {Cost of Cosmetic Procedures Dataset},
+If you use this dataset, please cite it as follows:
+
+**APA Style:**
+
+AestheticMatch. (2025). *Cost of Cosmetic Procedures Dataset* (v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15784891
+
+**BibTeX:**
+
+```bibtex
+@dataset{aestheticmatch_2025_v2,
   author       = {AestheticMatch},
+  title        = {Cost of Cosmetic Procedures Dataset},
   year         = {2025},
-  publisher    = {medRxiv},
-  version      = {latest},
-  doi          = {10.1101/2025.07.01.25306789},
-  url          = {https://github.com/philliphbh/aestheticmatch-dataset}
+  publisher    = {Zenodo},
+  version      = {v2},
+  doi          = {10.5281/zenodo.15786022},
+  url          = {https://doi.org/10.5281/zenodo.15786022}
 }
+
+
 ```
+📌 For citing the latest version, use DOI: 10.5281/zenodo.15784890
+
 
 ## Update Policy
 
