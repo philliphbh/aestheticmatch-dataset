@@ -1,0 +1,30 @@
+{
+  "name": "aestheticmatch-dataset",
+  "version": "1.0.0",
+  "description": "Cost of Cosmetic Procedures Dataset - comprehensive price data for cosmetic and plastic surgery procedures across major U.S. cities",
+  "main": "fetch_airtable_data.js",
+  "scripts": {
+    "update": "node fetch_airtable_data.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cosmetic-surgery",
+    "plastic-surgery",
+    "healthcare-costs",
+    "medical-data",
+    "dataset",
+    "pricing"
+  ],
+  "author": "AestheticMatch",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "csv-parse": "^5.6.0",
+    "csv-stringify": "^6.5.2",
+    "dotenv": "^17.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philliphbh/aestheticmatch-dataset.git"
+  }
+}
