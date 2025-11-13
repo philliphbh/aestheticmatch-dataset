@@ -1,240 +1,240 @@
 procedure,procedure_slug,city,city_slug,low,mid,high,source_url,sample_size,last_updated_UTC
-Brazilian Butt Lift (BBL),brazilian-butt-lift,Atlanta,atlanta,8600,10750,12900,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation,Atlanta,atlanta,5492,6865,8238,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck (Abdominoplasty),tummy-tuck,Atlanta,atlanta,7960.8,9951,11941.2,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360,Atlanta,atlanta,7989,9986.25,11983.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty (Nose Job),rhinoplasty,Atlanta,atlanta,7432.8,9291,11149.2,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction,Atlanta,atlanta,6391.2,7989,9586.8,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift (Brachioplasty),arm-lift  ,Atlanta,atlanta,5396,6745,8094,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift (Mastopexy),breast-lift  ,Atlanta,atlanta,6568,8210,9852,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Atlanta,atlanta,9771.2,12214,14656.8,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Atlanta,atlanta,16800,21000,25200,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,Atlanta,atlanta,5112,6390,7668,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Atlanta,atlanta,12997.6,16247,19496.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Atlanta,atlanta,4293.6,5367,6440.4,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,Atlanta,atlanta,12980.8,16226,19471.2,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Hip Enhancement,hip-enhancement  ,Atlanta,atlanta,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,Atlanta,atlanta,7600,9500,11400,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Cheek Enhancement,cheek-enhancement  ,Atlanta,atlanta,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-12T03:16:44.321Z
-Skin Tightening,skin-tightening  ,Atlanta,atlanta,1440,1800,2160,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Atlanta,atlanta,1200,1500,1800,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-12T03:16:44.321Z
-"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables  ,Atlanta,atlanta,1120,1400,1680,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Dallas,dallas,7596.8,9496,11395.2,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty (Nose Job),breast-lift  ,Dallas,dallas,8217.6,10272,12326.4,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,Dallas,dallas,5516,6895,8274,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck (Abdominoplasty),tummy-tuck  ,Dallas,dallas,10100.8,12626,15151.2,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction  ,Dallas,dallas,7391.2,9239,11086.8,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,fat-transfer  ,Dallas,dallas,14312.8,17891,21469.2,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,Dallas,dallas,9239,11548.75,13858.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift (Mastopexy),breast-lift  ,Dallas,dallas,6448,8060,9672,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Dallas,dallas,8412,10515,12618,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift (Brachioplasty),arm-lift  ,Dallas,dallas,9086.4,11358,13629.6,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Dallas,dallas,16032.8,20041,24049.2,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Dallas,dallas,11163.2,13954,16744.8,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Dallas,dallas,4912,6140,7368,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,Dallas,dallas,3880,4850,5820,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Hip Enhancement,hip-enhancement  ,Dallas,dallas,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,Dallas,dallas,9155.2,11444,13732.8,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Cheek Enhancement,cheek-enhancement  ,Dallas,dallas,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-12T03:16:44.321Z
-Skin Tightening,skin-tightening  ,Dallas,dallas,1600,2000,2400,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Dallas,dallas,1280,1600,1920,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Dallas,dallas,800,1000,1200,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Houston,houston,9992,12490,14988,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,Houston,houston,5452,6815,8178,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck (Abdominoplasty),tummy-tuck  ,Houston,houston,11731.2,14664,17596.8,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,Houston,houston,16958.4,21198,25437.6,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,lipo-360  ,Houston,houston,6496.8,8121,9745.2,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty (Nose Job),rhinoplasty  ,Houston,houston,7534.4,9418,11301.6,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,Houston,houston,8121,10151.25,12181.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift (Mastopexy),breast-lift  ,Houston,houston,9372,11715,14058,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift (Brachioplasty),arm-lift  ,Houston,houston,7520,9400,11280,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Houston,houston,8257.6,10322,12386.4,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Houston,houston,20520,25650,30780,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Houston,houston,11620,14525,17430,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Houston,houston,4233.6,5292,6350.4,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,Houston,houston,7376,9220,11064,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Hip Enhancement,hip-enhancement  ,Houston,houston,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,Houston,houston,10892,13615,16338,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Cheek Enhancement,cheek-enhancement  ,Houston,houston,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-12T03:16:44.321Z
-Skin Tightening,skin-tightening  ,Houston,houston,1600,2000,2400,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Houston,houston,1360,1700,2040,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-12T03:16:44.321Z
-"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Houston,houston,880,1100,1320,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty (Nose Job),rhinoplasty  ,Los Angeles,los-angeles,10490.4,13113,15735.6,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,Los Angeles,los-angeles,7140,8925,10710,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Los Angeles,los-angeles,11486.4,14358,17229.6,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,breast-lift  ,Los Angeles,los-angeles,10476.8,13096,15715.2,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck (Abdominoplasty),tummy-tuck  ,Los Angeles,los-angeles,12327.2,15409,18490.8,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift (Mastopexy),mommy-makeover  ,Los Angeles,los-angeles,10908.8,13636,16363.2,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Los Angeles,los-angeles,15585.6,19482,23378.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Los Angeles,los-angeles,11045.6,13807,16568.4,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Los Angeles,los-angeles,6420.8,8026,9631.2,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,Los Angeles,los-angeles,8000,10000,12000,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,Los Angeles,los-angeles,13096,16370,19644,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift (Brachioplasty),arm-lift  ,Los Angeles,los-angeles,9653.6,12067,14480.4,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Los Angeles,los-angeles,27543.2,34429,41314.8,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Hip Enhancement,hip-enhancement  ,Los Angeles,los-angeles,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,Los Angeles,los-angeles,11465.6,14332,17198.4,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Cheek Enhancement,cheek-enhancement  ,Los Angeles,los-angeles,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-12T03:16:44.321Z
-Skin Tightening,skin-tightening  ,Los Angeles,los-angeles,1800,2250,2700,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Los Angeles,los-angeles,1600,2000,2400,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,Los Angeles,los-angeles,21600,27000,32400,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Los Angeles,los-angeles,1760,2200,2640,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Miami,miami,5200,6471,7800,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck (Abdominoplasty),tummy-tuck  ,Miami,miami,6400,8000,9600,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,Miami,miami,4400,5450,6500,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,Miami,miami,4400,5500,6600,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty (Nose Job),rhinoplasty  ,Miami,miami,8400,10540,12600,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,Miami,miami,9183.2,11479,13774.8,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction  ,Miami,miami,4400,5500,6600,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift (Mastopexy),breast-lift  ,Miami,miami,5084.8,6356,7627.2,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift (Brachioplasty),arm-lift  ,Miami,miami,5200,6500,7800,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Miami,miami,6464.8,8081,9697.2,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Miami,miami,15822.4,19778,23733.6,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Miami,miami,9892,12365,14838,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Miami,miami,3300,4125,4950,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,Miami,miami,4023.2,5029,6034.8,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Hip Enhancement,hip-enhancement  ,Miami,miami,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,Miami,miami,7640,9550,11460,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Cheek Enhancement,cheek-enhancement  ,Miami,miami,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-12T03:16:44.321Z
-Skin Tightening,skin-tightening  ,Miami,miami,1680,2100,2520,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Miami,miami,1440,1800,2160,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-12T03:16:44.321Z
-"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Miami,miami,880,1100,1320,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,Tampa,tampa,5280,6600,7920,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck (Abdominoplasty),tummy-tuck  ,Tampa,tampa,10076.8,12596,15115.2,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction  ,Tampa,tampa,8640,10800,12960,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Tampa,tampa,6143.2,7679,9214.8,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,Tampa,tampa,13066.4,16333,19599.6,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty (Nose Job),rhinoplasty  ,Tampa,tampa,6700.8,8376,10051.2,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Tampa,tampa,13437.6,16797,20156.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Tampa,tampa,6532.8,8166,9799.2,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Tampa,tampa,6888,8610,10332,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift (Mastopexy),breast-lift  ,Tampa,tampa,7066.4,8833,10599.6,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift (Brachioplasty),arm-lift  ,Tampa,tampa,6876,8595,10314,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Labiaplasty,labiaplasty  ,Tampa,tampa,2533.6,3167,3800.4,https://www.realself.com/surgical/labiaplasty/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,Tampa,tampa,10800,13500,16200,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Tampa,tampa,13422.4,16778,20133.6,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,Tampa,tampa,8426.4,10533,12639.6,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Skin Tightening,skin-tightening  ,Tampa,tampa,1440,1800,2160,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Tampa,tampa,1200,1500,1800,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-12T03:16:44.321Z
-"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Tampa,tampa,960,1200,1440,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Vaginal Rejuvenation,vaginal-rejuvenation  ,Tampa,tampa,4160,5200,6240,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-12T03:16:44.321Z
-Breast Reduction (Mammoplasty),breast-reduction,Tampa,tampa,7716,9645,11574,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,Austin,austin,6467.2,8084,9700.8,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck,tummy-tuck  ,Austin,austin,9578.4,11973,14367.6,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty,rhinoplasty  ,Austin,austin,8000,10000,12000,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Lip Enhancement (Fillers),lip-enhancement  ,Austin,austin,360,450,540,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift,breast-lift  ,Austin,austin,8228,10285,12342,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Gynecomastia,gynecomastia  ,Austin,austin,5212,6515,7818,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,Austin,austin,16079.2,20099,24118.8,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Austin,austin,8422.4,10528,12633.6,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,Austin,austin,3760,4700,5640,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Austin,austin,11300,14125,16950,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Austin,austin,13600,17000,20400,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction  ,Austin,austin,5852,7315,8778,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift,arm-lift  ,Austin,austin,6200,7750,9300,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Vaginal Rejuvenation,vaginal-rejuvenation  ,Austin,austin,4000,5000,6000,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery,eyelid-surgery  ,Austin,austin,5400,6750,8100,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Breast Reduction,breast-reduction  ,Austin,austin,7000,8750,10500,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,Austin,austin,7315,9143.75,10972.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Austin,austin,18560,23200,27840,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Labiaplasty,labiaplasty  ,Austin,austin,2765.6,3457,4148.4,https://www.realself.com/surgical/labiaplasty/cost,1,2025-11-12T03:16:44.321Z
-Skin Tightening,skin-tightening  ,Austin,austin,1520,1900,2280,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,San Francisco,san-francisco,7825.6,9782,11738.4,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty,rhinoplasty  ,San Francisco,san-francisco,8856,11070,13284,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck,tummy-tuck  ,San Francisco,san-francisco,14848,18560,22272,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,San Francisco,san-francisco,23241.6,29052,34862.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift,breast-lift  ,San Francisco,san-francisco,7916.8,9896,11875.2,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Lip Enhancement,lip-enhancement  ,San Francisco,san-francisco,560,700,840,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,San Francisco,san-francisco,18730.4,23413,28095.6,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery,eyelid-surgery  ,San Francisco,san-francisco,4080,5100,6120,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift,brazilian-butt-lift  ,San Francisco,san-francisco,9880,12350,14820,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,San Francisco,san-francisco,12254.4,15318,18381.6,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction  ,San Francisco,san-francisco,7306.4,9133,10959.6,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Gynecomastia,gynecomastia  ,San Francisco,san-francisco,9330.4,11663,13995.6,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,San Francisco,san-francisco,6032,7540,9048,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Breast Reduction,breast-reduction  ,San Francisco,san-francisco,8775.2,10969,13162.8,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,San Francisco,san-francisco,9133,11416.25,13699.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift,arm-lift  ,San Francisco,san-francisco,6598.4,8248,9897.6,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,San Francisco,san-francisco,25943.2,32429,38914.8,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,San Francisco,san-francisco,1760,2200,2640,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,San Francisco,san-francisco,9744.8,12181,14617.2,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Vaginal Rejuvenation,vaginal-rejuvenation  ,San Francisco,san-francisco,4800,6000,7200,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,Chicago,chicago,6632,8290,9948,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck,tummy-tuck  ,Chicago,chicago,9969.6,12462,14954.4,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty,rhinoplasty  ,Chicago,chicago,6628.8,8286,9943.2,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,Chicago,chicago,14900,18625,22350,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction  ,Chicago,chicago,6485.6,8107,9728.4,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Chicago,chicago,13880,17350,20820,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift,brazilian-butt-lift  ,Chicago,chicago,9184.8,11481,13777.2,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift,breast-lift  ,Chicago,chicago,8042.4,10053,12063.6,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery,eyelid-surgery  ,Chicago,chicago,4160,5200,6240,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Chicago,chicago,9009.6,11262,13514.4,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Gynecomastia,gynecomastia  ,Chicago,chicago,5274.4,6593,7911.6,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,Chicago,chicago,4160,5200,6240,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Lip Enhancement,lip-enhancement  ,Chicago,chicago,520,650,780,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Breast Reduction,breast-reduction  ,Chicago,chicago,7400,9250,11100,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift,arm-lift  ,Chicago,chicago,5960,7450,8940,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Chicago,chicago,12000,15000,18000,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,Chicago,chicago,8107,10133.75,12160.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,Chicago,chicago,10346.4,12933,15519.6,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Vaginal Rejuvenation,vaginal-rejuvenation  ,Chicago,chicago,4240,5300,6360,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-12T03:16:44.321Z
-Skin Tightening,skin-tightening  ,Chicago,chicago,1600,2000,2400,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-Rhinoplasty,rhinoplasty  ,New York City,new-york-city,12400.8,15501,18601.2,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,New York City,new-york-city,7556,9445,11334,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck,tummy-tuck  ,New York City,new-york-city,11630.4,14538,17445.6,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,New York City,new-york-city,16733.6,20917,25100.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Lip Enhancement,lip-enhancement  ,New York City,new-york-city,600,750,900,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,New York City,new-york-city,12360,15450,18540,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery,eyelid-surgery  ,New York City,new-york-city,5240.8,6551,7861.2,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,New York City,new-york-city,16308.8,20386,24463.2,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift,brazilian-butt-lift  ,New York City,new-york-city,7771.2,9714,11656.8,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift,breast-lift  ,New York City,new-york-city,11304,14130,16956,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction  ,New York City,new-york-city,6792,8490,10188,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,New York City,new-york-city,7344,9180,11016,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,New York City,new-york-city,8490,10612.5,12735,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,New York City,new-york-city,16120,20150,24180,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Gynecomastia,gynecomastia  ,New York City,new-york-city,6440,8050,9660,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-12T03:16:44.321Z
-Breast Reduction,breast-reduction  ,New York City,new-york-city,11740.8,14676,17611.2,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift,arm-lift  ,New York City,new-york-city,8000,10000,12000,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Cheek Enhancement,cheek-enhancement  ,New York City,new-york-city,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-12T03:16:44.321Z
-Skin Rejuvenation & Resurfacing,skin-rejuvenation-resurfacing  ,New York City,new-york-city,1760,2200,2640,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-12T03:16:44.321Z
-Vaginal Rejuvenation,vaginal-rejuvenation  ,New York City,new-york-city,4960,6200,7440,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,Nashville,nashville,4931.2,6164,7396.8,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck,tummy-tuck  ,Nashville,nashville,7657.6,9572,11486.4,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty,rhinoplasty  ,Nashville,nashville,5660,7075,8490,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,Nashville,nashville,15200,19000,22800,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction  ,Nashville,nashville,9108.8,11386,13663.2,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift,breast-lift  ,Nashville,nashville,5236.8,6546,7855.2,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift,brazilian-butt-lift  ,Nashville,nashville,13466.4,16833,20199.6,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Nashville,nashville,8456.8,10571,12685.2,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Gynecomastia,gynecomastia  ,Nashville,nashville,5240,6550,7860,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery,eyelid-surgery  ,Nashville,nashville,3104,3880,4656,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Lip Enhancement,lip-enhancement  ,Nashville,nashville,420,525,630,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Nashville,nashville,7593.6,9492,11390.4,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,Nashville,nashville,7121.6,8902,10682.4,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift,arm-lift  ,Nashville,nashville,7840,9800,11760,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,Nashville,nashville,11386,14232.5,17079,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Breast Reduction,breast-reduction  ,Nashville,nashville,6494.4,8118,9741.6,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Nashville,nashville,20061.6,25077,30092.4,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,Nashville,nashville,10346.4,12933,15519.6,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Vaginal Rejuvenation,vaginal-rejuvenation  ,Nashville,nashville,4080,5100,6120,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-12T03:16:44.321Z
-Skin Tightening,skin-tightening  ,Nashville,nashville,1440,1800,2160,https://www.realself.com/concerns/skin-tightening,1,2025-11-12T03:16:44.321Z
-Breast Augmentation,breast-augmentation  ,Phoenix,phoenix,6891.2,8614,10336.8,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-12T03:16:44.321Z
-Tummy Tuck (Abdominoplasty),tummy-tuck  ,Phoenix,phoenix,11261.6,14077,16892.4,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-12T03:16:44.321Z
-Liposuction,liposuction  ,Phoenix,phoenix,6491.2,8114,9736.8,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Lipo 360,lipo-360  ,Phoenix,phoenix,8114,10142.5,12171,https://www.realself.com/surgical/liposuction/cost,1,2025-11-12T03:16:44.321Z
-Mommy Makeover,mommy-makeover  ,Phoenix,phoenix,17360,21700,26040,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-12T03:16:44.321Z
-Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Phoenix,phoenix,12695.2,15869,19042.8,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-12T03:16:44.321Z
-Rhinoplasty / Nose Job,rhinoplasty  ,Phoenix,phoenix,8431.2,10539,12646.8,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-12T03:16:44.321Z
-Facelift,facelift  ,Phoenix,phoenix,13200,16500,19800,https://www.realself.com/surgical/facelift/cost,1,2025-11-12T03:16:44.321Z
-Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Phoenix,phoenix,3340,4175,5010,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-12T03:16:44.321Z
-Neck Lift,neck-lift  ,Phoenix,phoenix,8866.4,11083,13299.6,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-12T03:16:44.321Z
-Breast Lift (Mastopexy),breast-lift  ,Phoenix,phoenix,8813.6,11017,13220.4,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-12T03:16:44.321Z
-Breast Reduction (Mammoplasty),breast-reduction  ,Phoenix,phoenix,8100.8,10126,12151.2,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-12T03:16:44.321Z
-Gynecomastia,gynecomastia  ,Phoenix,phoenix,5408,6760,8112,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-12T03:16:44.321Z
-Arm Lift (Brachioplasty),arm-lift  ,Phoenix,phoenix,4400,5500,6600,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-12T03:16:44.321Z
-Thigh Lift,thigh-lift  ,Phoenix,phoenix,10346.4,12933,15519.6,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-12T03:16:44.321Z
-Body Lift,body-lift  ,Phoenix,phoenix,14822.4,18528,22233.6,https://www.realself.com/surgical/body-lift/cost,1,2025-11-12T03:16:44.321Z
-Chin Implant,chin-implant  ,Phoenix,phoenix,6853.6,8567,10280.4,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-12T03:16:44.321Z
-Lip Enhancement (Fillers),lip-enhancement  ,Phoenix,phoenix,520,650,780,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-12T03:16:44.321Z
-Labiaplasty,labiaplasty  ,Phoenix,phoenix,4543.2,5679,6814.8,https://www.realself.com/surgical/labiaplasty/cost,1,2025-11-12T03:16:44.321Z
+Brazilian Butt Lift (BBL),brazilian-butt-lift,Atlanta,atlanta,8600,10750,12900,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation,Atlanta,atlanta,5492,6865,8238,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck (Abdominoplasty),tummy-tuck,Atlanta,atlanta,7960.8,9951,11941.2,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360,Atlanta,atlanta,7989,9986.25,11983.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty (Nose Job),rhinoplasty,Atlanta,atlanta,7432.8,9291,11149.2,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction,Atlanta,atlanta,6391.2,7989,9586.8,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift (Brachioplasty),arm-lift  ,Atlanta,atlanta,5396,6745,8094,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift (Mastopexy),breast-lift  ,Atlanta,atlanta,6568,8210,9852,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Atlanta,atlanta,9771.2,12214,14656.8,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Atlanta,atlanta,16800,21000,25200,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,Atlanta,atlanta,5112,6390,7668,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Atlanta,atlanta,12997.6,16247,19496.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Atlanta,atlanta,4293.6,5367,6440.4,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,Atlanta,atlanta,12980.8,16226,19471.2,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Hip Enhancement,hip-enhancement  ,Atlanta,atlanta,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,Atlanta,atlanta,7600,9500,11400,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Cheek Enhancement,cheek-enhancement  ,Atlanta,atlanta,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-13T03:19:08.643Z
+Skin Tightening,skin-tightening  ,Atlanta,atlanta,1440,1800,2160,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Atlanta,atlanta,1200,1500,1800,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-13T03:19:08.643Z
+"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables  ,Atlanta,atlanta,1120,1400,1680,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Dallas,dallas,7596.8,9496,11395.2,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty (Nose Job),breast-lift  ,Dallas,dallas,8217.6,10272,12326.4,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,Dallas,dallas,5516,6895,8274,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck (Abdominoplasty),tummy-tuck  ,Dallas,dallas,10100.8,12626,15151.2,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction  ,Dallas,dallas,7391.2,9239,11086.8,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,fat-transfer  ,Dallas,dallas,14312.8,17891,21469.2,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,Dallas,dallas,9239,11548.75,13858.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift (Mastopexy),breast-lift  ,Dallas,dallas,6448,8060,9672,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Dallas,dallas,8412,10515,12618,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift (Brachioplasty),arm-lift  ,Dallas,dallas,9086.4,11358,13629.6,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Dallas,dallas,16032.8,20041,24049.2,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Dallas,dallas,11163.2,13954,16744.8,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Dallas,dallas,4912,6140,7368,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,Dallas,dallas,3880,4850,5820,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Hip Enhancement,hip-enhancement  ,Dallas,dallas,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,Dallas,dallas,9155.2,11444,13732.8,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Cheek Enhancement,cheek-enhancement  ,Dallas,dallas,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-13T03:19:08.643Z
+Skin Tightening,skin-tightening  ,Dallas,dallas,1600,2000,2400,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Dallas,dallas,1280,1600,1920,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Dallas,dallas,800,1000,1200,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Houston,houston,9992,12490,14988,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,Houston,houston,5452,6815,8178,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck (Abdominoplasty),tummy-tuck  ,Houston,houston,11731.2,14664,17596.8,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,Houston,houston,16958.4,21198,25437.6,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,lipo-360  ,Houston,houston,6496.8,8121,9745.2,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty (Nose Job),rhinoplasty  ,Houston,houston,7534.4,9418,11301.6,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,Houston,houston,8121,10151.25,12181.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift (Mastopexy),breast-lift  ,Houston,houston,9372,11715,14058,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift (Brachioplasty),arm-lift  ,Houston,houston,7520,9400,11280,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Houston,houston,8257.6,10322,12386.4,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Houston,houston,20520,25650,30780,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Houston,houston,11620,14525,17430,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Houston,houston,4233.6,5292,6350.4,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,Houston,houston,7376,9220,11064,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Hip Enhancement,hip-enhancement  ,Houston,houston,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,Houston,houston,10892,13615,16338,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Cheek Enhancement,cheek-enhancement  ,Houston,houston,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-13T03:19:08.643Z
+Skin Tightening,skin-tightening  ,Houston,houston,1600,2000,2400,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Houston,houston,1360,1700,2040,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-13T03:19:08.643Z
+"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Houston,houston,880,1100,1320,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty (Nose Job),rhinoplasty  ,Los Angeles,los-angeles,10490.4,13113,15735.6,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,Los Angeles,los-angeles,7140,8925,10710,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Los Angeles,los-angeles,11486.4,14358,17229.6,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,breast-lift  ,Los Angeles,los-angeles,10476.8,13096,15715.2,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck (Abdominoplasty),tummy-tuck  ,Los Angeles,los-angeles,12327.2,15409,18490.8,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift (Mastopexy),mommy-makeover  ,Los Angeles,los-angeles,10908.8,13636,16363.2,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Los Angeles,los-angeles,15585.6,19482,23378.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Los Angeles,los-angeles,11045.6,13807,16568.4,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Los Angeles,los-angeles,6420.8,8026,9631.2,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,Los Angeles,los-angeles,8000,10000,12000,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,Los Angeles,los-angeles,13096,16370,19644,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift (Brachioplasty),arm-lift  ,Los Angeles,los-angeles,9653.6,12067,14480.4,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Los Angeles,los-angeles,27543.2,34429,41314.8,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Hip Enhancement,hip-enhancement  ,Los Angeles,los-angeles,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,Los Angeles,los-angeles,11465.6,14332,17198.4,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Cheek Enhancement,cheek-enhancement  ,Los Angeles,los-angeles,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-13T03:19:08.643Z
+Skin Tightening,skin-tightening  ,Los Angeles,los-angeles,1800,2250,2700,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Los Angeles,los-angeles,1600,2000,2400,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,Los Angeles,los-angeles,21600,27000,32400,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Los Angeles,los-angeles,1760,2200,2640,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Miami,miami,5200,6471,7800,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck (Abdominoplasty),tummy-tuck  ,Miami,miami,6400,8000,9600,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,Miami,miami,4400,5450,6500,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,Miami,miami,4400,5500,6600,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty (Nose Job),rhinoplasty  ,Miami,miami,8400,10540,12600,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,Miami,miami,9183.2,11479,13774.8,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction  ,Miami,miami,4400,5500,6600,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift (Mastopexy),breast-lift  ,Miami,miami,5084.8,6356,7627.2,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift (Brachioplasty),arm-lift  ,Miami,miami,5200,6500,7800,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Miami,miami,6464.8,8081,9697.2,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Miami,miami,15822.4,19778,23733.6,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Miami,miami,9892,12365,14838,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Miami,miami,3300,4125,4950,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,Miami,miami,4023.2,5029,6034.8,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Hip Enhancement,hip-enhancement  ,Miami,miami,10470.4,13088,15705.6,https://www.realself.com/surgical/hip-augmentation#cost,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,Miami,miami,7640,9550,11460,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Cheek Enhancement,cheek-enhancement  ,Miami,miami,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-13T03:19:08.643Z
+Skin Tightening,skin-tightening  ,Miami,miami,1680,2100,2520,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Miami,miami,1440,1800,2160,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-13T03:19:08.643Z
+"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Miami,miami,880,1100,1320,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,Tampa,tampa,5280,6600,7920,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck (Abdominoplasty),tummy-tuck  ,Tampa,tampa,10076.8,12596,15115.2,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction  ,Tampa,tampa,8640,10800,12960,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Tampa,tampa,6143.2,7679,9214.8,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,Tampa,tampa,13066.4,16333,19599.6,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty (Nose Job),rhinoplasty  ,Tampa,tampa,6700.8,8376,10051.2,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Tampa,tampa,13437.6,16797,20156.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Tampa,tampa,6532.8,8166,9799.2,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Tampa,tampa,6888,8610,10332,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift (Mastopexy),breast-lift  ,Tampa,tampa,7066.4,8833,10599.6,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift (Brachioplasty),arm-lift  ,Tampa,tampa,6876,8595,10314,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Labiaplasty,labiaplasty  ,Tampa,tampa,2533.6,3167,3800.4,https://www.realself.com/surgical/labiaplasty/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,Tampa,tampa,10800,13500,16200,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Tampa,tampa,13422.4,16778,20133.6,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,Tampa,tampa,8426.4,10533,12639.6,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Skin Tightening,skin-tightening  ,Tampa,tampa,1440,1800,2160,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,Tampa,tampa,1200,1500,1800,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-13T03:19:08.643Z
+"Fillers & Injectables (e.g., Botox, Juvederm)",fillers-injectables,Tampa,tampa,960,1200,1440,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Vaginal Rejuvenation,vaginal-rejuvenation  ,Tampa,tampa,4160,5200,6240,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-13T03:19:08.643Z
+Breast Reduction (Mammoplasty),breast-reduction,Tampa,tampa,7716,9645,11574,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,Austin,austin,6467.2,8084,9700.8,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck,tummy-tuck  ,Austin,austin,9578.4,11973,14367.6,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty,rhinoplasty  ,Austin,austin,8000,10000,12000,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Lip Enhancement (Fillers),lip-enhancement  ,Austin,austin,360,450,540,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift,breast-lift  ,Austin,austin,8228,10285,12342,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Gynecomastia,gynecomastia  ,Austin,austin,5212,6515,7818,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,Austin,austin,16079.2,20099,24118.8,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Austin,austin,8422.4,10528,12633.6,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,Austin,austin,3760,4700,5640,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Austin,austin,11300,14125,16950,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Austin,austin,13600,17000,20400,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction  ,Austin,austin,5852,7315,8778,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift,arm-lift  ,Austin,austin,6200,7750,9300,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Vaginal Rejuvenation,vaginal-rejuvenation  ,Austin,austin,4000,5000,6000,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery,eyelid-surgery  ,Austin,austin,5400,6750,8100,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Breast Reduction,breast-reduction  ,Austin,austin,7000,8750,10500,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,Austin,austin,7315,9143.75,10972.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Austin,austin,18560,23200,27840,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Labiaplasty,labiaplasty  ,Austin,austin,2765.6,3457,4148.4,https://www.realself.com/surgical/labiaplasty/cost,1,2025-11-13T03:19:08.643Z
+Skin Tightening,skin-tightening  ,Austin,austin,1520,1900,2280,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,San Francisco,san-francisco,7825.6,9782,11738.4,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty,rhinoplasty  ,San Francisco,san-francisco,8856,11070,13284,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck,tummy-tuck  ,San Francisco,san-francisco,14848,18560,22272,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,San Francisco,san-francisco,23241.6,29052,34862.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift,breast-lift  ,San Francisco,san-francisco,7916.8,9896,11875.2,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Lip Enhancement,lip-enhancement  ,San Francisco,san-francisco,560,700,840,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,San Francisco,san-francisco,18730.4,23413,28095.6,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery,eyelid-surgery  ,San Francisco,san-francisco,4080,5100,6120,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift,brazilian-butt-lift  ,San Francisco,san-francisco,9880,12350,14820,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,San Francisco,san-francisco,12254.4,15318,18381.6,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction  ,San Francisco,san-francisco,7306.4,9133,10959.6,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Gynecomastia,gynecomastia  ,San Francisco,san-francisco,9330.4,11663,13995.6,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,San Francisco,san-francisco,6032,7540,9048,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Breast Reduction,breast-reduction  ,San Francisco,san-francisco,8775.2,10969,13162.8,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,San Francisco,san-francisco,9133,11416.25,13699.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift,arm-lift  ,San Francisco,san-francisco,6598.4,8248,9897.6,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,San Francisco,san-francisco,25943.2,32429,38914.8,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Skin Rejuvenation & Resurfacing,skin-rejuvenation  ,San Francisco,san-francisco,1760,2200,2640,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,San Francisco,san-francisco,9744.8,12181,14617.2,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Vaginal Rejuvenation,vaginal-rejuvenation  ,San Francisco,san-francisco,4800,6000,7200,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,Chicago,chicago,6632,8290,9948,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck,tummy-tuck  ,Chicago,chicago,9969.6,12462,14954.4,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty,rhinoplasty  ,Chicago,chicago,6628.8,8286,9943.2,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,Chicago,chicago,14900,18625,22350,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction  ,Chicago,chicago,6485.6,8107,9728.4,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Chicago,chicago,13880,17350,20820,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift,brazilian-butt-lift  ,Chicago,chicago,9184.8,11481,13777.2,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift,breast-lift  ,Chicago,chicago,8042.4,10053,12063.6,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery,eyelid-surgery  ,Chicago,chicago,4160,5200,6240,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Chicago,chicago,9009.6,11262,13514.4,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Gynecomastia,gynecomastia  ,Chicago,chicago,5274.4,6593,7911.6,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,Chicago,chicago,4160,5200,6240,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Lip Enhancement,lip-enhancement  ,Chicago,chicago,520,650,780,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Breast Reduction,breast-reduction  ,Chicago,chicago,7400,9250,11100,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift,arm-lift  ,Chicago,chicago,5960,7450,8940,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Chicago,chicago,12000,15000,18000,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,Chicago,chicago,8107,10133.75,12160.5,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,Chicago,chicago,10346.4,12933,15519.6,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Vaginal Rejuvenation,vaginal-rejuvenation  ,Chicago,chicago,4240,5300,6360,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-13T03:19:08.643Z
+Skin Tightening,skin-tightening  ,Chicago,chicago,1600,2000,2400,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+Rhinoplasty,rhinoplasty  ,New York City,new-york-city,12400.8,15501,18601.2,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,New York City,new-york-city,7556,9445,11334,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck,tummy-tuck  ,New York City,new-york-city,11630.4,14538,17445.6,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,New York City,new-york-city,16733.6,20917,25100.4,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Lip Enhancement,lip-enhancement  ,New York City,new-york-city,600,750,900,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,New York City,new-york-city,12360,15450,18540,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery,eyelid-surgery  ,New York City,new-york-city,5240.8,6551,7861.2,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,New York City,new-york-city,16308.8,20386,24463.2,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift,brazilian-butt-lift  ,New York City,new-york-city,7771.2,9714,11656.8,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift,breast-lift  ,New York City,new-york-city,11304,14130,16956,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction  ,New York City,new-york-city,6792,8490,10188,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,New York City,new-york-city,7344,9180,11016,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,New York City,new-york-city,8490,10612.5,12735,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,New York City,new-york-city,16120,20150,24180,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Gynecomastia,gynecomastia  ,New York City,new-york-city,6440,8050,9660,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-13T03:19:08.643Z
+Breast Reduction,breast-reduction  ,New York City,new-york-city,11740.8,14676,17611.2,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift,arm-lift  ,New York City,new-york-city,8000,10000,12000,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Cheek Enhancement,cheek-enhancement  ,New York City,new-york-city,10097.6,12622,15146.4,https://www.realself.com/surgical/cheek-implants/cost,1,2025-11-13T03:19:08.643Z
+Skin Rejuvenation & Resurfacing,skin-rejuvenation-resurfacing  ,New York City,new-york-city,1760,2200,2640,https://www.realself.com/nonsurgical/skin-rejuvenation,1,2025-11-13T03:19:08.643Z
+Vaginal Rejuvenation,vaginal-rejuvenation  ,New York City,new-york-city,4960,6200,7440,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,Nashville,nashville,4931.2,6164,7396.8,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck,tummy-tuck  ,Nashville,nashville,7657.6,9572,11486.4,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty,rhinoplasty  ,Nashville,nashville,5660,7075,8490,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,Nashville,nashville,15200,19000,22800,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction  ,Nashville,nashville,9108.8,11386,13663.2,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift,breast-lift  ,Nashville,nashville,5236.8,6546,7855.2,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift,brazilian-butt-lift  ,Nashville,nashville,13466.4,16833,20199.6,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Nashville,nashville,8456.8,10571,12685.2,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Gynecomastia,gynecomastia  ,Nashville,nashville,5240,6550,7860,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery,eyelid-surgery  ,Nashville,nashville,3104,3880,4656,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Lip Enhancement,lip-enhancement  ,Nashville,nashville,420,525,630,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Nashville,nashville,7593.6,9492,11390.4,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,Nashville,nashville,7121.6,8902,10682.4,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift,arm-lift  ,Nashville,nashville,7840,9800,11760,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,Nashville,nashville,11386,14232.5,17079,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Breast Reduction,breast-reduction  ,Nashville,nashville,6494.4,8118,9741.6,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Nashville,nashville,20061.6,25077,30092.4,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,Nashville,nashville,10346.4,12933,15519.6,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Vaginal Rejuvenation,vaginal-rejuvenation  ,Nashville,nashville,4080,5100,6120,https://www.realself.com/surgical/vaginal-rejuvenation/cost,1,2025-11-13T03:19:08.643Z
+Skin Tightening,skin-tightening  ,Nashville,nashville,1440,1800,2160,https://www.realself.com/concerns/skin-tightening,1,2025-11-13T03:19:08.643Z
+Breast Augmentation,breast-augmentation  ,Phoenix,phoenix,6891.2,8614,10336.8,https://www.realself.com/surgical/breast-augmentation/cost,1,2025-11-13T03:19:08.643Z
+Tummy Tuck (Abdominoplasty),tummy-tuck  ,Phoenix,phoenix,11261.6,14077,16892.4,https://www.realself.com/surgical/tummy-tuck/cost,1,2025-11-13T03:19:08.643Z
+Liposuction,liposuction  ,Phoenix,phoenix,6491.2,8114,9736.8,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Lipo 360,lipo-360  ,Phoenix,phoenix,8114,10142.5,12171,https://www.realself.com/surgical/liposuction/cost,1,2025-11-13T03:19:08.643Z
+Mommy Makeover,mommy-makeover  ,Phoenix,phoenix,17360,21700,26040,https://www.realself.com/surgical/mommy-makeover/cost,1,2025-11-13T03:19:08.643Z
+Brazilian Butt Lift (BBL),brazilian-butt-lift  ,Phoenix,phoenix,12695.2,15869,19042.8,https://www.realself.com/surgical/brazilian-butt-lift/cost,1,2025-11-13T03:19:08.643Z
+Rhinoplasty / Nose Job,rhinoplasty  ,Phoenix,phoenix,8431.2,10539,12646.8,https://www.realself.com/surgical/rhinoplasty/cost,1,2025-11-13T03:19:08.643Z
+Facelift,facelift  ,Phoenix,phoenix,13200,16500,19800,https://www.realself.com/surgical/facelift/cost,1,2025-11-13T03:19:08.643Z
+Eyelid Surgery (Blepharoplasty),eyelid-surgery  ,Phoenix,phoenix,3340,4175,5010,https://www.realself.com/surgical/eyelid-surgery/cost,1,2025-11-13T03:19:08.643Z
+Neck Lift,neck-lift  ,Phoenix,phoenix,8866.4,11083,13299.6,https://www.realself.com/surgical/neck-lift/cost,1,2025-11-13T03:19:08.643Z
+Breast Lift (Mastopexy),breast-lift  ,Phoenix,phoenix,8813.6,11017,13220.4,https://www.realself.com/surgical/breast-lift/cost,1,2025-11-13T03:19:08.643Z
+Breast Reduction (Mammoplasty),breast-reduction  ,Phoenix,phoenix,8100.8,10126,12151.2,https://www.realself.com/surgical/breast-reduction/cost,1,2025-11-13T03:19:08.643Z
+Gynecomastia,gynecomastia  ,Phoenix,phoenix,5408,6760,8112,https://www.realself.com/surgical/gynecomastia-surgery/cost,1,2025-11-13T03:19:08.643Z
+Arm Lift (Brachioplasty),arm-lift  ,Phoenix,phoenix,4400,5500,6600,https://www.realself.com/surgical/arm-lift/cost,1,2025-11-13T03:19:08.643Z
+Thigh Lift,thigh-lift  ,Phoenix,phoenix,10346.4,12933,15519.6,https://www.realself.com/surgical/thigh-lift/cost,1,2025-11-13T03:19:08.643Z
+Body Lift,body-lift  ,Phoenix,phoenix,14822.4,18528,22233.6,https://www.realself.com/surgical/body-lift/cost,1,2025-11-13T03:19:08.643Z
+Chin Implant,chin-implant  ,Phoenix,phoenix,6853.6,8567,10280.4,https://www.realself.com/surgical/chin-implant/cost,1,2025-11-13T03:19:08.643Z
+Lip Enhancement (Fillers),lip-enhancement  ,Phoenix,phoenix,520,650,780,https://www.realself.com/nonsurgical/dermal-fillers/cost,1,2025-11-13T03:19:08.643Z
+Labiaplasty,labiaplasty  ,Phoenix,phoenix,4543.2,5679,6814.8,https://www.realself.com/surgical/labiaplasty/cost,1,2025-11-13T03:19:08.643Z
